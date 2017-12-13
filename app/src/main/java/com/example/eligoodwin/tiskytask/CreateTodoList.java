@@ -11,4 +11,13 @@ public class CreateTodoList extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_todo_list);
     }
+
+
+    private boolean emtpyTodoLists(){
+        boolean empty = true;
+        //
+
+
+        return empty;
+    }
 }
